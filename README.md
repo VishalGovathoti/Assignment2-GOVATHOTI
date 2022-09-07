@@ -46,3 +46,26 @@ The museum is in **Tahrir Square**, which was the location of the recent protest
 > Live as if you were to die tomorrow. Learn as if you were to live forever. *Mahatma Gandhi*
 
 >It is better to be violent, if there is violence in our hearts, than to put on the cloak of nonviolence to cover impotence.*Mahatma Gandhi*
+
+---
+# Simple Auto-Playing Slideshow
+
+> This JavaScript code snippet helps you to create a simple auto playing image slideshow. It comes with a simple interface to play images with sliding effect. You can easily integrate this slideshow as a showcase or general purpose images slideshow.
+
+[Quick-link to the article on stack overflow.](https://www.codehim.com/carousel/simple-auto-playing-slideshow/)
+
+```
+<div id="slideshow">
+  <div>
+    <img src="//farm6.static.flickr.com/5224/5658667829_2bb7d42a9c_m.jpg">
+  </div>
+  <div>
+    <img src="//farm6.static.flickr.com/5230/5638093881_a791e4f819_m.jpg">
+  </div>
+  <div>
+    Pretty cool eh? This slide is proof the content can be anything.
+  </div>
+</div>
+
+```
+[Quick-link for the snippet source](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
