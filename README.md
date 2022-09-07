@@ -9,10 +9,23 @@ The museum is in **Tahrir Square**, which was the location of the recent protest
 **When I return to Egypt, I hope to visit a new Egyptian Museum and I hope it will rank higher on this list.**
 
 ---
-## Cairo Airpor
+## Cairo Airport
 
 1. Yes, the driving distance between Cairo Airport (CAI) to Egyptian Museum is 21 km. It takes approximately 18 min to drive from Cairo Airport (CAI) to Egyptian Museum.
 
-2. To get from downtown to the airport, board an A.C bus at the bus terminal just north of the Egyptian Museum
+1. To get from downtown to the airport, board an A.C bus at the bus terminal just north of the Egyptian Museum
 
-3. Finally, there are also direct express buses from the airport to Alexandria every 30-60 min. However, the buses operate only during daylight hours (4 AM to 7:30 PM).
+1. Finally, there are also direct express buses from the airport to Alexandria every 30-60 min. However, the buses operate only during daylight hours (4 AM to 7:30 PM).
+
+* Locations to visit near Egyptian Museum
+
+  * Mercer Williams House Museum.
+  * National Garden.
+  * Midgard Adventure.
+  * St. Augustine History Museum.
+  * Vilano Beach Pier.
+  * Oppenheimer Beach.
+  * Moulin Rouge.
+  * Tulum Tower.
+  
+
