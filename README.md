@@ -69,3 +69,21 @@ The museum is in **Tahrir Square**, which was the location of the recent protest
 
 ```
 [Quick-link for the snippet source](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+
+
+
+
+----
+
+|Completeness constraints||
+|----|---|
+|1. Total specialization |(mandatory )|
+|2. partial |(optional)|
+
+|Disjointness Constraints|||
+|---|---|---|
+|1.Disjoint |(one) |Simple|
+|2. overlap |(one or more)|Composite|
+|optional one|a book can be an office,class or just|
+|mandatory one |A studenr must be an sundergard or grad but cant be both |
+|optional many (0 or more)|a person can be an employee a student or can be both bit can mbe a person also|
